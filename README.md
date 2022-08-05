@@ -1,8 +1,8 @@
 # Truncate
-# Language: C++
+# Language: Perl
 # Input: TXT
 # Output: FASTA
-# Tested with: PluMA 1.1, GCC 4.8.4
+# Tested with: PluMA 1.1, Perl 5.26
 # Dependencies: AmpliconNoise 1.29
 
 PluMA plugin to trim sequences to a user-specified length (Quince et al, 2011).
