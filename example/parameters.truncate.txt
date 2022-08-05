@@ -1,0 +1,2 @@
+inputseq	plugins/Truncate/example/output_s60_c01_cd.fa
+trimlength	220
